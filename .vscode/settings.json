@@ -1,6 +1,6 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.linting.enaabled": true,
+    "python.linting.enabled": true,
     "files.exclude": {
         "**/*.pyc": {"when": "$(basename).py"},
         "**/__pycahce__": true,
